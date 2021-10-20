@@ -1,0 +1,12 @@
+{
+    "git.autoStash": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "workbench.iconTheme": "file-icons-mac",
+    "projectManager.any.baseFolders": [
+        "C:\\Users\\Ahmed\\SparkleShare"
+    ],
+    "emmet.triggerExpansionOnTab": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.semicolons": "insert",
+    "javascript.format.semicolons": "insert"
+}
